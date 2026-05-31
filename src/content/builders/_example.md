@@ -1,17 +1,17 @@
 ---
-name: Your Name
-github: your-github-username
+name: Lwin Hein Khant
+github: FurryForWhat
 cohort: 1
 role: builder
-skills: ["JavaScript", "Python", "Claude Code"]
-repo: https://github.com/your-github-username/your-project
+skills: ["JavaScript", "Python","Java", "Claude Code"]
+repo: https://github.com/FurryForWhat/vibe-code-tours.github.io
 x: your-x-handle
-linkedin: your-linkedin-username
+linkedin: kofurry
 website: https://your-site.com
 ---
 
 Hi! I'm learning to vibe-code with AI. My goal is to build and ship something
-real by Demo Day. Excited to be part of the Tour.
+real by Demo Day. Excited to be part of the Tour. I've learned and developed some simple projects using Java , SpringBoot , and IOT weather project.
 
 <!--
 HOW TO ADD YOURSELF:
